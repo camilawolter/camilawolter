@@ -16,7 +16,7 @@
 
 
 <h1 align="center">
-  Hey there
+  Heey
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -26,17 +26,17 @@
 
 ---
 
-### :woman_technologist: About Me :
- I am a Web Development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Brazil.
-- :telescope: I'm working on my skills to be a Full Stack Developer.
+### :woman_technologist: Sobre Mim :
+  Me chamo Camila, tenho 23 anos, e moro em São Lourenço do Sul - Rio Grande do Sul. Sou formada em Engenharia Hídrica e atualmente sou estudante de Desenvolvimento Web Full Satck na Trybe. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- 👩‍🎓 No momento estou trabalhandoe aprimorando minhas habilidades para me tornar uma Desenvolvedora Web, e ter uma carreira na área de tecnologia.
 
-- :zap: In my free time, I study new languages to improve myself.
+- 🍿 No meu tempo livre adoro ver uma série e um filmezinho. 
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-CamilaWolter-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camila-wolter-cardoso-bb3686159/)
+- :mailbox: Onde me encontrar: [![Linkedin Badge](https://img.shields.io/badge/-Aqui-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camila-wolter-cardoso-bb3686159/)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Tecnologias e Ferramentas (em estudo) :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="Unix" alt="Unix" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
