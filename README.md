@@ -32,7 +32,7 @@
 
 - 🍿 No meu tempo livre adoro ver uma série e um filmezinho. 
 
-- :mailbox: Onde me encontrar: [![Linkedin Badge](https://img.shields.io/badge/-Aqui-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camila-wolter-cardoso-bb3686159/)
+- :mailbox: Para entrar em contato: [![Linkedin Badge](https://img.shields.io/badge/-Aqui-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camila-wolter-cardoso-bb3686159/)
 
 ---
 
