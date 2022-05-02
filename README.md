@@ -28,7 +28,7 @@
 
 ### :woman_technologist: Sobre Mim :
   Me chamo Camila, tenho 23 anos, e moro em São Lourenço do Sul - Rio Grande do Sul. Sou formada em Engenharia Hídrica e atualmente sou estudante de Desenvolvimento Web Full Stack na Trybe. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 👩‍🎓 No momento estou trabalhandoe aprimorando minhas habilidades para me tornar uma Desenvolvedora Web, e ter uma carreira na área de tecnologia.
+- 👩‍🎓 No momento estou aprimorando minhas habilidades para me tornar uma Desenvolvedora Web, e ter uma carreira na área de tecnologia.
 
 - 🍿 No meu tempo livre adoro ver uma série e um filmezinho. 
 
