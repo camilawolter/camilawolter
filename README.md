@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/camila-wolter-cardoso-bb3686159/">
+  <a href="https://www.linkedin.com/in/camilawolter/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/iCamisss" align="center">
@@ -29,7 +29,7 @@
 
 - 🍿 No meu tempo livre adoro ver uma série e um filmezinho. 
 
-- :mailbox: Para entrar em contato: [![Linkedin Badge](https://img.shields.io/badge/-Aqui-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camila-wolter-cardoso-bb3686159/)
+- :mailbox: Para entrar em contato: [![Linkedin Badge](https://img.shields.io/badge/-Aqui-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camilawolter/)
 
 ---
 
