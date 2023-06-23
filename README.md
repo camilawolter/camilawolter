@@ -24,12 +24,7 @@
 ---
 
 ### :woman_technologist: Sobre Mim :
-  Me chamo Camila, tenho 24 anos, e moro em São Lourenço do Sul - Rio Grande do Sul. Sou formada em Engenharia Hídrica e atualmente sou estudante de Desenvolvimento Web Full Stack na Trybe. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 👩‍🎓 No momento estou aprimorando minhas habilidades para me tornar uma Desenvolvedora Web, e ter uma carreira na área de tecnologia.
-
-- 🍿 No meu tempo livre adoro ver uma série e um filmezinho. 
-
-- :mailbox: Para entrar em contato: [![Linkedin Badge](https://img.shields.io/badge/-Aqui-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camilawolter/)
+Olá! Eu sou a Camila, uma desenvolvedora web em busca de desafios e oportunidades para aplicar minhas habilidades e conhecimentos. Sou formada em Engenharia Hídrica e Desenvolvimento Web Full Stack, apaixonada por tecnologia e sempre buscando aprender algo novo. Tenho experiência em desenvolvimento de aplicações web e estou constantemente aprimorando minhas habilidades para me tornar uma desenvolvedora completa.
 
 ---
 
@@ -53,7 +48,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilawolter&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 <!--
