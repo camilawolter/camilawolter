@@ -24,7 +24,7 @@
 ---
 
 ### :woman_technologist: Sobre Mim :
-Olá! Eu sou a Camila, uma desenvolvedora web em busca de desafios e oportunidades para aplicar minhas habilidades e conhecimentos. Sou formada em Engenharia Hídrica e Desenvolvimento Web Full Stack, apaixonada por tecnologia e sempre buscando aprender algo novo. Tenho experiência em desenvolvimento de aplicações web e estou constantemente aprimorando minhas habilidades para me tornar uma desenvolvedora completa.
+Olá! Eu sou a Camila, desenvolvedora web em busca de desafios e oportunidades para aplicar minhas habilidades e conhecimentos. Sou formada em Engenharia Hídrica e Desenvolvimento Web Full Stack, apaixonada por tecnologia e sempre buscando aprender algo novo. Tenho experiência em desenvolvimento de aplicações web e estou constantemente aprimorando minhas habilidades para me tornar uma desenvolvedora completa.
 
 ---
 
